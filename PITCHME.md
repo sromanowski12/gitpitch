@@ -1,5 +1,12 @@
 ---?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
 @title[Introduction]
+@ul
+
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+
+@ulend
 
 @snap[north-west raleway-medium]
 #### The Markdown Presentation Service on Git
